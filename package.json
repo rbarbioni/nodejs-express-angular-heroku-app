@@ -11,7 +11,20 @@
   },
   "dependencies": {
     "ejs": "2.5.6",
-    "express": "4.15.2"
+    "body-parser": "~1.15.2",
+    "cookie-parser": "~1.4.3",
+    "debug": "~2.2.0",
+    "express": "~4.14.1",
+    "jade": "~1.11.0",
+    "morgan": "~1.7.0",
+    "serve-favicon": "~2.3.0",
+    "mongoose": "4.8.0",
+    "feedparser": "2.1.0",
+    "request": "~2.79.0",
+    "uuid": "3.0.1",
+    "rss-parser": "2.5.2",
+    "cors": "1.0",
+    "mysql": "latest"      
   },
   "repository": {
     "type": "git",
