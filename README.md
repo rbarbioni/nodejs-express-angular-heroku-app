@@ -1,4 +1,13 @@
-# node-js-getting-started
+# NodeJs Express Api Starting Project
+
+# Frameworks
+
+- NodeJs
+- Express
+- NPM
+- AngularJS
+- Single Page Application
+- MVC
 
 A barebones Node.js app using [Express 4](http://expressjs.com/).
 
@@ -9,8 +18,8 @@ This application supports the [Getting Started with Node on Heroku](https://devc
 Make sure you have [Node.js](http://nodejs.org/) and the [Heroku CLI](https://cli.heroku.com/) installed.
 
 ```sh
-$ git clone git@github.com:heroku/node-js-getting-started.git # or clone your own fork
-$ cd node-js-getting-started
+$ git clone https://github.com/rbarbioni/nodejs-express-angular-heroku-app.git # or clone your own fork
+$ cd odejs-express-angular-heroku-app
 $ npm install
 $ npm start
 ```
