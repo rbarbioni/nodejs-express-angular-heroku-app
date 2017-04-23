@@ -2,7 +2,6 @@ var express = require('express');
 var router = express.Router();
 var personService = require('../services/person-service')
 
-/* GET users listing. */
 router.get('/', function(req, res) {
 
     personService.findAll(function(err, result) {
