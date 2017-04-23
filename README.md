@@ -19,8 +19,8 @@ Make sure you have [Node.js](http://nodejs.org/) and the [Heroku CLI](https://cl
 
 ```sh
 $ git clone https://github.com/rbarbioni/nodejs-express-angular-heroku-app.git # or clone your own fork
-$ cd odejs-express-angular-heroku-app
-$ npm install
+$ cd nodejs-express-angular-heroku-app
+$ sudo npm install
 $ npm start
 ```
 
@@ -35,7 +35,8 @@ $ heroku open
 ```
 or
 
-[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
+## 
+[![Lives on Heroku](https://www.herokucdn.com/deploy/button.png)](https://shrouded-shore-62849.herokuapp.com)
 
 ## Documentation
 
